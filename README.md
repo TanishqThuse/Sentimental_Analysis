@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 
     bash
 
-git clone https://github.com/yourusername/Mama_Earth_Sentiment_Analysis.git
+git clone https://github.com/TanishqThuse//Sentimental_Analysis.git
 cd Mama_Earth_Sentiment_Analysis
 
 Create a virtual environment and activate it:
